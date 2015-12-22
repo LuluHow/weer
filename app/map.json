@@ -1,0 +1,5 @@
+{
+    "onRight": "moveRight()",
+    "onLeft": "moveLeft()",
+    "clickOnBigButton": "explose()"
+}
